@@ -49,6 +49,9 @@ a{
 p{
     line-height: 2;
 }
+.skil{
+    font-size: 85%;
+}
 
 .top-container{
     background-color: #d8ac9c;
