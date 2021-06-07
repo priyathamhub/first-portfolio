@@ -1,3 +1,3 @@
 # first-portfolio
 
-This is my first website portfolio created by using HTML5 and CSS3
+This is my first portfolio website created by using HTML5 and CSS3
